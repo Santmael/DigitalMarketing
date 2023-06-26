@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 3370.82 2384.24" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="263.669" id="Filter" width="365.626" x="1676.19" y="1173.72">
+<feDropShadow dx="0" dy="0" flood-color="#ffffff" flood-opacity="1" in="SourceGraphic" result="Shadow" stdDeviation="0"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="352.29" id="Filter_2" width="274.574" x="1703.03" y="765.488">
+<feDropShadow dx="0" dy="0" flood-color="#ffffff" flood-opacity="1" in="SourceGraphic" result="Shadow" stdDeviation="0"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="296.598" id="Filter_3" width="322.875" x="1284.91" y="836.578">
+<feDropShadow dx="0" dy="0" flood-color="#ffffff" flood-opacity="1" in="SourceGraphic" result="Shadow" stdDeviation="0"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="316.799" id="Filter_4" width="300.629" x="1333.64" y="1180.04">
+<feDropShadow dx="0" dy="0" flood-color="#ffffff" flood-opacity="1" in="SourceGraphic" result="Shadow" stdDeviation="0"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="372.226" id="Filter_5" width="372.226" x="1476.38" y="940.706">
+<feDropShadow dx="0" dy="0" flood-color="#ffffff" flood-opacity="1" in="SourceGraphic" result="Shadow" stdDeviation="0"/>
+</filter>
+</defs>
+<g id="Camada-1" vectornator:layerName="Camada 1">
+<g opacity="1">
+<path d="M1676.19 1434.59C1758.89 1445.14 1841.08 1425.84 1909.91 1377.49C1974.01 1333.18 2020.22 1269.34 2041.81 1195.72L1921.25 1173.72C1887.38 1284.91 1784.14 1439.42 1684.5 1429.94L1676.19 1434.59Z" fill="#02205b" fill-rule="nonzero" filter="url(#Filter)" stroke="none" vectornator:shadowAngle="0" vectornator:shadowColor="#ffffff" vectornator:shadowOffset="0" vectornator:shadowOpacity="1" vectornator:shadowRadius="0"/>
+<path d="M1976.67 1117.78C1982.76 1034.63 1959.09 953.593 1907.11 887.453C1859.42 825.821 1793.2 783.099 1718.54 765.488L1703.03 887.053C1815.87 914.916 1975.7 1009.72 1971.58 1109.73L1976.67 1117.78Z" fill="#02205b" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" vectornator:shadowAngle="0" vectornator:shadowColor="#ffffff" vectornator:shadowOffset="0" vectornator:shadowOpacity="1" vectornator:shadowRadius="0"/>
+<path d="M1607.79 836.578C1524.46 839.35 1446.4 871.497 1386.16 930.205C1329.94 984.171 1294.49 1054.55 1284.91 1130.67L1407.44 1133.18C1423.16 1018.01 1500.44 849.019 1600.33 842.49L1607.79 836.578Z" fill="#02205b" fill-rule="nonzero" filter="url(#Filter_3)" stroke="none" vectornator:shadowAngle="0" vectornator:shadowColor="#ffffff" vectornator:shadowOffset="0" vectornator:shadowOpacity="1" vectornator:shadowRadius="0"/>
+<path d="M1333.64 1180.04C1338.12 1263.3 1371.85 1340.68 1431.78 1399.71C1486.88 1454.82 1557.98 1488.82 1634.27 1496.84L1634.27 1374.29C1518.81 1360.93 1348.28 1287.11 1339.71 1187.38L1333.64 1180.04Z" fill="#02205b" fill-rule="nonzero" filter="url(#Filter_4)" stroke="none" vectornator:shadowAngle="0" vectornator:shadowColor="#ffffff" vectornator:shadowOffset="0" vectornator:shadowOpacity="1" vectornator:shadowRadius="0"/>
+<path d="M1476.38 1126.82C1476.38 1024.03 1559.71 940.706 1662.5 940.706C1765.29 940.706 1848.61 1024.03 1848.61 1126.82C1848.61 1229.61 1765.29 1312.93 1662.5 1312.93C1559.71 1312.93 1476.38 1229.61 1476.38 1126.82Z" fill="#f26805" fill-rule="nonzero" filter="url(#Filter_5)" stroke="none" vectornator:shadowAngle="0" vectornator:shadowColor="#ffffff" vectornator:shadowOffset="0" vectornator:shadowOpacity="1" vectornator:shadowRadius="0"/>
+</g>
+</g>
+</svg>
